@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:zeynepnaz9902@gmail.com">zeynepnaz9902@gmail.com</a>
+  📫 How to reach me: <a href="mailto:kaya.naz@metu.edu.tr">kaya.naz@metu.edu.tr</a>
 
   ### Connect with me:
   <a href="https://linkedin.com/in/zeynep-naz-kaya">
