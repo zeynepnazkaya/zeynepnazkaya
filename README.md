@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
-  📫 How to reach me: [zeynepnaz9902@gmail.com](mailto:zeynepnaz9902@gmail.com)
+  📫 How to reach me: <a href="mailto:zeynepnaz9902@gmail.com">zeynepnaz9902@gmail.com</a>
   <a href="https://linkedin.com/in/zeynep-naz-kaya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
