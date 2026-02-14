@@ -3,6 +3,8 @@
 
 <p align="center">
   📫 How to reach me: <a href="mailto:zeynepnaz9902@gmail.com">zeynepnaz9902@gmail.com</a>
+
+  ### Connect with me:
   <a href="https://linkedin.com/in/zeynep-naz-kaya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
